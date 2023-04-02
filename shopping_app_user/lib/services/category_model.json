@@ -1,0 +1,81 @@
+{
+  "categories" : [
+    {
+      "name":"Bluetooth Neckbands",
+      "subcategory": [
+        "Neckbands",
+        "Tws"
+      ]
+    },
+
+    {
+      "name": "Smart Watches",
+      "subcategory": [
+        "Apple",
+        "Noise",
+        "Fire-Boltt"
+      ]
+    },
+
+    {
+      "name": "Mobile Accessories & Gadgets",
+      "subcategory": [
+        "Chargers",
+        "Pendrives",
+        "Earphones"
+        ]
+    },
+
+    {
+      "name": "Apple Airpods",
+      "subcategory": [
+        "Airpods Pro",
+        "Airpods 2",
+        "Airpods 3"
+        ]
+    },
+
+    {
+      "name": "Headphones",
+      "subcategory": [
+        "Wired",
+        "Wireless"
+      ]
+    },
+
+    {
+      "name": "Luxury Watches",
+      "subcategory": [
+        "G-Shock",
+        "Armani",
+        "Rolex"
+      ]
+    },
+
+    {
+      "name": "Iphones",
+      "subcategory": [
+        "11",
+        "12",
+        "13"
+      ]
+    },
+
+    {
+      "name": "Speakers",
+      "subcategory": [
+        "JBL",
+        "Landmark",
+        "Target"
+      ]
+    },
+
+    {
+      "name": "Other Accessories",
+      "subcategory": [
+        "Cases & Covers",
+        "Watch Straps"
+      ]
+    }
+  ]
+}
