@@ -21,9 +21,13 @@ The app provides features for both buyers and sellers, making the shopping exper
 ♦Features:
 
 1)User registration and login
+
 2)Browse products from the seller
+
 3)Shopping cart and order management
+
 4)Seller dashboard for product management
+
 5)Order tracking and notifications
 
 
