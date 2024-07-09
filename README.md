@@ -1,68 +1,59 @@
-Shop Drop Mobile
 
+# Shop-Drop
 
-♦Table of Contents
-1)Project Overview
-2)Features
-3)Technologies Used
-4)Getting Started
-5)Prerequisites
-6)Installation
-7)Usage
-8)Contact
-
-
-♦Project Overview:
+An ecommerce mobile app, capable of running on both Android and iOS, that allows users to shop their favourite products on the go where ever they are.
 
 Shop Drop Mobile is a mobile application designed to facilitate shopping by connecting users with an ecommerce seller. 
 The app provides features for both buyers and sellers, making the shopping experience smooth and efficient.
 
+## Table of Contents
 
-♦Features:
+- Features
+- Technologies Used
+- Prerequisites
+- Installation
+- Usage
+## Features
 
-1)User registration and login
+- User registration and login
+- Browse products from the seller
+- Shopping cart and order management
+- Seller dashboard for product management
+- Order tracking and notifications
+## Tech Stack
 
-2)Browse products from the seller
+**Frontend:** Dart (Flutter)
 
-3)Shopping cart and order management
+**Backend:** Google Firebase
 
-4)Seller dashboard for product management
-
-5)Order tracking and notifications
-
-
-♦Technologies Used:
-1)Frontend: Dart (Flutter)
-2)Backend: Google Firebase
-3)Other: C++, CMake, Swift, HTML, C
+**Other:** C++, CMake, Swift, HTML, C
 
 
-♦Getting Started:
+## Pre-requisites
 
-•Prerequisites:
 Make sure you have the following installed on your local machine:
 
-1)Flutter SDK
-2)Android Studio or Xcode (for iOS) depending on machine being used
-3)A code editor (e.g., VS Code)
+(i) Flutter SDK
 
-•Installation:
-1)Clone the repository: git clone https://github.com/AtharvaJ1302/Shop-Drop-mobile.git
-2)Navigate to the project directory: cd Shop-Drop-mobile
-3)Install dependencies: flutter pub get
-4)Run the app on an emulator or physical device: flutter run
+(ii) Android Studio or Xcode (for iOS) depending on machine being used
 
+(iii) A code editor (e.g., VS Code)
 
-♦Usage:
+## Installation
 
-1)Open the app on your mobile device.
-2)Register a new account or log in with an existing account.
-3)Browse products, add items to your cart, and place orders.
-4)Sellers can manage their products and view orders through the seller dashboard.
+- Clone the repository: git clone https://github.com/AtharvaJ1302/Shop-Drop-mobile.git
 
+- Navigate to the project directory: cd Shop-Drop-mobile
 
-♦Contact
-For any questions or feedback, please contact:
+- Install dependencies: flutter pub get
 
-Name: atharvaj1302@gmail.com
-GitHub: https://github.com/AtharvaJ1302
+- Run the app on an emulator or physical device: flutter run
+## Usage
+
+-Open the app on your mobile device.
+
+-Register a new account or log in with an existing account.
+
+-Browse products, add items to your cart, and place orders.
+
+-Sellers can manage their products and view orders through the seller dashboard.
